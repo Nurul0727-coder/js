@@ -94,16 +94,17 @@
 // Дээрх олсон утгуудаа хэвлэж харуулаарай.
 
 // 5.1 Дээрх array доторх тоонуудын нийлбэрийг ол.
-let number = [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 14, 15, 16, 17, 18];
-let sum = 0;
-for (i = 0; i < number.length; i++) {
-  sum += number[i];
-}
-console.log(sum);
+// let number = [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 14, 15, 16, 17, 18];
+// let sum = 0;
+// for (i = 0; i < number.length; i++) {
+//   sum += number[i];
+// }
+// console.log(sum);
 
 // 5.2  Дээрх аrray - ийн хамгийн их тоог ол.
 // let biggest = number[0];
 // for (let i = 0; i < number.length;i++){if(number[i<biggest])}
+
 //5.3
 // let smallest = number[0];
 // for (let i = 0; i < number.length; i++) {
@@ -115,13 +116,13 @@ console.log(sum);
 // number.unshift(17);
 // console.log(number);
 
-let tegsh = 0;
-let sondgoi = 0;
-for (let i = 0; i < number.length; i++) {
-  if (number[i] % 2 === 0) {
-    tegsh++;
-  } else {
-    sondgoi++;
-  }
-}
-console.log(tegsh, sondgoi);
+// let tegsh = 0;
+// let sondgoi = 0;
+// for (let i = 0; i < number.length; i++) {
+//   if (number[i] % 2 === 0) {
+//     tegsh++;
+//   } else {
+//     sondgoi++;
+//   }
+// }
+// console.log(tegsh, sondgoi);
