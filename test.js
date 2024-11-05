@@ -126,3 +126,5 @@
 //   }
 // }
 // console.log(tegsh, sondgoi);
+
+//odtoi bodlogo;
