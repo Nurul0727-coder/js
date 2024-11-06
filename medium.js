@@ -1,0 +1,1 @@
+function findDigitCount(number,digit)
