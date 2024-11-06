@@ -30,21 +30,21 @@
 // console.log(result);
 
 //4
-const n = 7;
-let result = "";
-for (let k = 0; k < n; k++) {
-  let i = 0;
-  for (let j = 0; j < n - k - 1; j++) {
-    result = result + " ";
-  }
-  while (i < k + 1) {
-    if (i == 0 || i == k || k == n - 1) {
-      result += "* ";
-    } else {
-      result += "  ";
-    }
-    i++;
-  }
-  result = result + "\n";
-}
-console.log(result);
+// const n = 7;
+// let result = "";
+// for (let k = 0; k < n; k++) {
+//   let i = 0;
+//   for (let j = 0; j < n - k - 1; j++) {
+//     result = result + " ";
+//   }
+//   while (i < k + 1) {
+//     if (i == 0 || i == k || k == n - 1) {
+//       result += "* ";
+//     } else {
+//       result += "  ";
+//     }
+//     i++;
+//   }
+//   result = result + "\n";
+// }
+// console.log(result);
