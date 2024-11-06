@@ -14,7 +14,7 @@ for (let k = 0; k < n; k++) {
 }
 console.log(result);
 
-//3
+// 3
 // for (let k = 0; k < n; k++) {
 //   let i = 0;
 //   for (let j = 0; j < n - k - 1; j++) {
@@ -48,8 +48,6 @@ console.log(result);
 //   result = result + "\n";
 // }
 // console.log(result);
-<<<<<<< HEAD
-=======
 
 // 5
 // const n = 5;
@@ -85,4 +83,3 @@ console.log(result);
 // result = result + "\n";
 // }
 // console.log(result);
->>>>>>> fabb2ddde4ba0324b46144f1beab4734fc6cd47f
